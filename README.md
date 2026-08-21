@@ -1,3 +1,5 @@
+Tout d'abord, vous devez créer une copie (fork) puis cloner le repo.
+
 # Exercices sur les commandes VS Code
 
 > Dans cet exercice, vous devez utiliser les raccourcis et commandes pour répondre aux questions suivantes.
@@ -6,7 +8,7 @@ Si vous n'êtes pas encore familier avec les commandes VS Code, allez dans le pl
 
 ## 1. Auto-formatage
 
-1. Le code fourni est mal formaté. Suivez les étapes des notes de cours pour configurer Ruff et activer le formatage automatique à la sauvegarde : https://app.gitbook.com/o/qWn6Tbh1thQPZRNnvYTk/s/t7y2VZ521uD26unwRYFw/outils-et-environnement-de-developpement/vs-code#auto-formattage-avec-ruff
+1. Le code fourni dans `distributeur_iot/distributeur.py` est mal formaté. Suivez les étapes des notes de cours pour configurer Ruff et activer le formatage automatique à la sauvegarde : https://app.gitbook.com/o/qWn6Tbh1thQPZRNnvYTk/s/t7y2VZ521uD26unwRYFw/outils-et-environnement-de-developpement/vs-code#auto-formattage-avec-ruff
 
 ## 2. Renommage (F2)
 
